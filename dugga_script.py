@@ -94,7 +94,7 @@ plt.savefig("plots/scatter_matplotlib.png", dpi=300)
 plt.show 
 
 
-# Question 6
+# Question 4
 # Import random
 import random 
 
